@@ -1,0 +1,12 @@
+Design proposal for a simple e-democracy app:
+
+QUESTION PIPELINE
+  - users can see a list of upcoming questions
+  - how are questions added to the pipeline?
+  - is there a mechanism for bringing questions closer to the front of the pipeline? i.e. pushing a question to the top?
+
+HOW TO HOLD A VOTE
+  - phone buzzes from push notification
+  - a question or decision is presented on the phone
+  - there is a deadline to respond
+  - big buttons for "yes" and "no"
